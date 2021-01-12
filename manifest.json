@@ -1,0 +1,16 @@
+{
+  "short_name": "Résumé",
+  "name": "Andrey Zhygarev",
+  "icons": [
+    {
+      "src": "/img/favicon.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "white",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "white"
+}
