@@ -5,3 +5,10 @@
 main {
   margin-bottom: 50vh;
 }
+
+.audio_button {
+  border: unset;
+  background-color: inherit;
+  outline: none;
+  cursor: pointer;
+}
