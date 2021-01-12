@@ -1,3 +1,11 @@
+.my_avatar {
+  border-radius: 15px;
+}
+
+main {
+  margin-bottom: 50vh;
+}
+
 .audio_button {
   border: unset;
   background-color: inherit;
